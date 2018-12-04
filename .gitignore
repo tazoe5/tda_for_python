@@ -1,0 +1,10 @@
+*.npy
+*.orig
+*.swp
+*.swo
+__pycache__
+*.png
+*.jpg
+*.wav
+*.mp3
+*.pyc
